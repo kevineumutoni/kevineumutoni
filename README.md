@@ -1,7 +1,5 @@
 ## Hi there am Kevine UMUTONI 👋
 
-**kevineumutoni/kevineumutoni** 
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on studying... 
