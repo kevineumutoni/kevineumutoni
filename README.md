@@ -1,7 +1,6 @@
 ## Hi there am Kevine UMUTONI 👋
 
-<!--
-**kevineumutoni/kevineumutoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kevineumutoni/kevineumutoni** 
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kevineumutonibugingo@gmail.com ...
 - 😄 Pronouns: .she/her..
 - ⚡ Fun fact: I am very cool...
--->
