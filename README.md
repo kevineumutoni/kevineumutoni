@@ -15,12 +15,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on studying... 
-- 🌱 I’m currently learning at AKiraChix...
-- 👯 I’m looking to collaborate on any project ...
-- 🤔 I’m looking for help with coding..
-- 💬 Ask me about tech-related projects based on make our lives simple...
-- 📫 How to reach me: kevineumutonibugingo@gmail.com ...
+- 🔭 I’m currently working on my coding skills
+- 🌱 I’m currently learning at AKiraChix
+- 👯 I’m looking to collaborate on any project
+- 🤔 I’m looking for help with AI and ML
+- 💬 Ask me about tech-related projects based on make our lives simple
+- 📫 How to reach me: kevineumutonibugingo@gmail.com
 - 😄 Pronouns: .she/her..
-- Fun fact: I take music as a therapy 
+- Random fact: MUSIC IS A THERAPY
 
