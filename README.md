@@ -3,11 +3,7 @@
 
 ![Kevine's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kevineumutoni&show_icons=true&theme=transparent)
 
-<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="500">
-
-
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
 
 
 <!-- 💻 Tech Stack (with ML/DL/Agent focus & tooltips) -->
